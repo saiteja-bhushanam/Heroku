@@ -2,5 +2,5 @@ fastapi
 uvicorn
 pydantic
 pickle5
-scikit-lean
+scikit-learn
 numpy
